@@ -1,4 +1,4 @@
-# Hey, I'm Gino 👋🇵🇦
+## Hey, I'm Gino 👋🇵🇦
  
 Founder obsessed with solving real problems through technology.
  
